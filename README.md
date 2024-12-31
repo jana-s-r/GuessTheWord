@@ -1,4 +1,6 @@
-Output: 
+
+# Output
+```
 Let's play the game!
 
 Hint: Programming language
